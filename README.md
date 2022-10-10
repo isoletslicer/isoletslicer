@@ -34,6 +34,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg??style=flat-square&logo=mongodb&logoColor=white)
   ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)
