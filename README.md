@@ -18,11 +18,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
   ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
-
   ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg??style=flat-square&logo=chart.js&logoColor=white)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg??style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -33,13 +31,11 @@
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg??style=flat-square&logo=express&logoColor=%2361DAFB)
   ![JWT](https://img.shields.io/badge/JWT-black??style=flat-square&logo=JSON%20web%20tokens)
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg??style=flat-square&logo=nestjs&logoColor=white)
-
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg??style=flat-square&logo=mongodb&logoColor=white)
   ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg??style=flat-square&logo=django&logoColor=white)
 
