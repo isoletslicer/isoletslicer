@@ -2,7 +2,7 @@
 
 - 📊 I'm a _Web Developer|Software Developer_ and enjoyed developing back-end stuffs, web application using _JavaScript/TypeScript_.
 - 🔚 At past, I was on Data Science/Analyst, but now turned into Full Stack Web Developer / Software Developer
-- 📚 Currently learning about 
+- 📚 Currently learning about : 
   - _TypeScript(Full-Stack)_, 
   - _Java(Spring Boot)_, 
   - _Flutter(Dart)_, 
